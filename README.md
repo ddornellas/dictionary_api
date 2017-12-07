@@ -2,4 +2,6 @@
 
 PHP, AJAX, Javascript, Jquery, Bootstrap, CSS, HTML.
 
-Access Oxford Dictionaries API.
+Web widget to access Oxford Dictionaries API.
+
+Live preview: http://www.2broda.com.br/oxford/
