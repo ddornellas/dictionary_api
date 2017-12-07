@@ -1,0 +1,57 @@
+body{
+    
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+#border_div {
+    border: 1px solid black;
+
+
+    padding: 10px;
+    margin-top: 100px;
+
+
+    background: #6db3f2;
+    background: -moz-linear-gradient(-45deg, #6db3f2 0%, #54a3ee 50%, #3690f0 51%, #1e69de 100%);
+    background: -webkit-linear-gradient(-45deg, #6db3f2 0%, #54a3ee 50%, #3690f0 51%, #1e69de 100%);
+    background: linear-gradient(135deg, #6db3f2 0%, #54a3ee 50%, #3690f0 51%, #1e69de 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6db3f2', endColorstr='#1e69de', GradientType=1);
+
+}
+
+#panelresp {
+
+    margin-top: 20px;
+}
+
+.editable {
+    background-color: #fff;
+    padding: 10px;
+    border: solid 3px white;
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.editable::-webkit-scrollbar {
+    width: 1em;
+}
+
+
+.editable::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 2px solid slategrey;
+}
+
+.button {
+
+    text-align: right;
+}
+
+#btnAudio{
+    
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+    
+}
